@@ -25,7 +25,7 @@ The dashboard was built using pivot tables, calculated time fields and Excel vis
 ![Dashboard Overview](dashboard_overview.png)
 
 ### Pivot Table Analysis
-![Pivot Tables](pivot Analysis 1.png)
+![Pivot Tables](pivot_analysis1.png)
 
 ---
 
